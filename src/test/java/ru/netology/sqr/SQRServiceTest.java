@@ -1,7 +1,6 @@
 package ru.netology.sqr;
 
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.*;
 
